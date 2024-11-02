@@ -5,7 +5,7 @@
    📫 - Bahia, Brasil
 </p>
 
-> Graduando em Engenharia de Software, atualmente estudando e me aprofudando em python
+> Graduando em Engenharia de Software, desenvolvedor front-end, atualmente estudando e me aprofudando em análise de dados
 
 <br>
 
