@@ -1,52 +1,50 @@
 <h1 align="center"> Hi 👋, I'm Bruno Gomes </h1>
+   
+   <!-- p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>  -->
 
-<p>💬 - Bruno Gomes<br>
-   🔭 - Software Engineer<br>
-   📫 - Bahia, Brasil
-</p>
+   <!-- <p>💼 CEO da <a href="" target="blank_"></a></p>  -->
 
-> 👋 Desde cedo sempre tive uma grande afinidade com tecnologia, o que naturalmente despertou meu interesse pelo universo da programação. A paixão por resolver problemas me levou a encontrar na área de software um ambiente desafiador e estimulante, onde cada obstáculo é uma nova oportunidade de aprendizado.
+   <!-- <p>⚙ Membro da <a href="" target="blank_">LAIA</a></p>  -->
 
-> 📒 Atualmente, estou no 3º semestre da graduação em Engenharia de Software e sigo estudando diariamente e me aprofundando em desenvolvedimento backend e análise de dados.
+   <p>👨‍💻 - Desenvolvedor e projetista da Praxis EJ</p>
+   
+   <p>🎓 - Graduando em Engenharia de Software<br></p>
 
-> 🏦 Na empersa júnior onde atuo hoje, realizo projetos de desenvolvimento web utilizando HTML, CSS, JavaScript, além de ser o líder do time de backend da empresa, desenvolvendo pricipalmente na linguagem Node.js e suas bibliotecas como o express para a construção de API's
+   <p>📒 - Me aprofundando em backend</p>
 
-> 💡 Sou movido pela curiosidade e pela vontade constante de evoluir, tanto tecnicamente quanto profissionalmente.
-
-> 🔗 Linkedin: https://www.linkedin.com/in/brunocmgomes/
+   <!-- <p>🔠 <a href="">C1 Advanced English Level</a></p> -->
 
 <br>
 
 <div>
-  <a href="https://github.com/brunocmg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&langs_count=16&theme=dracula"/>
+   <a href="https://github.com/brunocmg">
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocmg&show_icons=true&theme=dracula"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-##
 
 <h2>Languages ​​and Tools</h2>
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg">
-   <img align="center" alt="npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
-   <img align="center" alt="js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-   <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-   <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> 
-   <img align="center" alt="mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-   <img align="center" alt="sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-   <img align="center" alt="html-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-   <img align="center" alt="css-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-</div> 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,js,python,mysql,mongodb,git,github,html,css)](https://skillicons.dev)
 
+<!-- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,aws,azure,mysql,postgresql,mongodb,docker,git,github)](https://skillicons.dev) -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,flask,selenium,aws,azure,mysql,postgresql,mongodb,docker,git,github)](https://skillicons.dev) -->
+
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p> -->
 
 <h2>Contact Me</h2>
 
 <div >
-  <br>
-  <a href="mailto:brunocmg2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/brunocmgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+   <br>
+   <a href="mailto:brunocmg2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/brunocmgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 </div>
 
 ##
