@@ -1,8 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Bruno Gomes </h1>
+
+   <!-- <p>💼 CEO da <a href="" target="blank_"></a></p>  -->
    
    <!-- p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>  -->
 
-   <!-- <p>💼 CEO da <a href="" target="blank_"></a></p>  -->
+   <!-- <p>🧠 Gestor de Automação IA <a href="" target="blank_">Soldera Marketing</a></p>  -->
 
    <!-- <p>⚙ Membro da <a href="" target="blank_">LAIA</a></p>  -->
 
@@ -10,7 +12,7 @@
    
    <p>🎓 - Graduando em Engenharia de Software<br></p>
 
-   <p>📒 - Me aprofundando em backend</p>
+   <p>📒 - Me aprofundando em backend e automação</p>
 
    <!-- <p>🔠 <a href="">C1 Advanced English Level</a></p> -->
 
