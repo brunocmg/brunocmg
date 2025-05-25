@@ -4,11 +4,11 @@
    
    <!-- p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>  -->
 
-   <!-- <p>🧠 Gestor de Automação IA <a href="" target="blank_">Soldera Marketing</a></p>  -->
+   <!-- <p>🧠 Gestor de Automação IA da <a href="" target="blank_">Soldera Marketing</a></p>  -->
 
-   <!-- <p>⚙ Membro da <a href="" target="blank_">LAIA</a></p>  -->
+   <!-- <p>⚙ Membro da <a href="" target="blank_">Liga Acadêmica de Inovação em Automação (LAIA)</a></p>  -->
 
-   <p>👨‍💻 - Desenvolvedor e projetista da Praxis EJ</p>
+   <p>👨‍💻 Desenvolvedor e projetista da <a href="https://www.instagram.com/praxisjr/" target="blank_">Praxis Jr</a></p>
    
    <p>🎓 - Graduando em Engenharia de Software<br></p>
 
