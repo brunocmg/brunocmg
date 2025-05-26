@@ -4,7 +4,7 @@
    
    <!-- p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>  -->
 
-   <!-- <p>🧠 Gestor de Automação IA da <a href="" target="blank_">Soldera Marketing</a></p>  -->
+   <!-- <p>🧠 Gestor de Automação de IA da <a href="" target="blank_">Soldera Marketing</a></p>  -->
 
    <!-- <p>⚙ Membro da <a href="" target="blank_">Liga Acadêmica de Inovação em Automação (LAIA)</a></p>  -->
 
