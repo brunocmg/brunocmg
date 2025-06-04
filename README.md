@@ -6,7 +6,7 @@
 
    <!-- <p>🧠 Gestor de Automação de IA da <a href="" target="blank_">Soldera Marketing</a></p>  -->
 
-   <!-- <p>⚙ Membro da <a href="" target="blank_">Liga Acadêmica de Inovação em Automação (LAIA)</a></p>  -->
+   <!-- <p>⚙ Membro da <a href="" target="blank_">Liga de Inovação em Automação (LIA)</a></p>  -->
 
    <p>👨‍💻 Desenvolvedor e projetista da <a href="https://www.instagram.com/praxisjr/" target="blank_">Praxis Jr</a></p>
    
