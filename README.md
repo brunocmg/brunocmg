@@ -8,7 +8,7 @@
 
    <!-- <p>⚙ Membro da <a href="" target="blank_">Liga de Inovação em Automação (LIA)</a></p>  -->
 
-   <p>👨‍💻 Desenvolvedor e projetista da <a href="https://www.instagram.com/praxisjr/" target="blank_">Praxis Jr</a></p>
+   <p>👨‍💻 Desenvolvedor e projetista da <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
    
    <p>🎓 - Graduando em Engenharia de Software<br></p>
 
