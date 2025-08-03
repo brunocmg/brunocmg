@@ -1,20 +1,18 @@
 <h1 align="center"> Hi 👋, I'm Bruno Gomes </h1>
 
-   <!-- <p>💼 CEO da <a href="" target="blank_"></a></p>  -->
+   <!-- <p>💼 CEO & Gestor de automação da <a href="" target="blank_"></a></p>  -->
    
    <!-- p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>  -->
 
-   <!-- <p>🧠 Gestor de Automação de IA da <a href="" target="blank_">Soldera Marketing</a></p>  -->
-
    <!-- <p>⚙ Membro da <a href="" target="blank_">Liga de Inovação em Automação (LIA)</a></p>  -->
 
-   <p>👨‍💻 Desenvolvedor e projetista da <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
+   <!-- <p>👨‍💻 Desenvolvedor e projetista da <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p> -->
    
    <p>🎓 - Graduando em Engenharia de Software<br></p>
 
    <p>📒 - Me aprofundando em backend e automação</p>
 
-   <!-- <p>🔠 <a href="">C1 Advanced English Level</a></p> -->
+   <!-- <p>🔠 <a href="">B1 English Level</a></p> -->
 
 <br>
 
@@ -28,15 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,js,python,mysql,mongodb,git,github,html,css)](https://skillicons.dev)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,aws,azure,mysql,postgresql,mongodb,docker,git,github)](https://skillicons.dev) -->
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,flask,selenium,aws,azure,mysql,postgresql,mongodb,docker,git,github)](https://skillicons.dev) -->
-
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p> -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,flask ou django,selenium,nodejs,npm,express,postman,mysql,postgre,mongodb,aws,docker,kubernetes,git,github)](https://skillicons.dev) -->
 
 <h2>Contact Me</h2>
 
