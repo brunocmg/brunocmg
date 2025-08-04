@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,js,python,mysql,mongodb,git,github,html,css)](https://skillicons.dev)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,flask ou django,selenium,nodejs,npm,express,postman,mysql,postgre,mongodb,aws,docker,kubernetes,git,github)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,flask ou django,selenium,nodejs,npm,express,postman,mysql,postgre,mongodb,aws,azure,docker,kubernetes,git,github)](https://skillicons.dev) -->
 
 <h2>Contact Me</h2>
 
