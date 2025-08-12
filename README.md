@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Bruno Gomes </h1>
 
-   <!-- <p>💼 CEO & Gestor de automação da <a href="" target="blank_"></a></p>  -->
+   <!-- <p>💼 CEO da <a href="" target="blank_"></a></p>  -->
    
    <!-- p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>  -->
 
