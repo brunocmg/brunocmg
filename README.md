@@ -13,7 +13,7 @@
 
    <p>🛠️ Desenvolvedor projetista da <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
 
-   <!-- <p>🔠 <a href="">B1 English Level</a></p> -->
+   <!-- <p>🔠 <a href="">A2 English Level</a></p> -->
 
 <br>
 
