@@ -6,7 +6,7 @@
 
    <!-- <p>💼 CEO da <a href="" target="blank_"></a></p> -->
    
-   <p>👨‍💻 Desenvolvedor da <a href="" target="blank_">Quyro Tech</a></p>
+   <p>👨‍💻 Desenvolvedor da <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Quyro Tech</a></p>
 
    <p>⚙ Membro da Liga de Inovação em Automação <a href="https://www.instagram.com/automacaoinovacao/" target="blank_">(LIA)</a></p>
    <!-- <p>⚙ Membro da Liga de Inovação em Automação <a href="" target="blank_">(LIA)</a> e da Liga Acadêmica de Engenharia de Software <a href="" target="blank_">(LAES)</a></p> -->
