@@ -10,6 +10,7 @@
 
    <p>⚙ Membro da Liga de Inovação em Automação <a href="https://www.instagram.com/automacaoinovacao/" target="blank_">(LIA)</a></p>
    <!-- <p>⚙ Membro da Liga de Inovação em Automação <a href="" target="blank_">(LIA)</a> e da Liga Acadêmica de Engenharia de Software <a href="" target="blank_">(LAES)</a></p> -->
+   <!-- <p>⚙ Membro da Liga Acadêmica de Engenharia de Software <a href="" target="blank_">(LAES)</a></p> -->
 
    <p>🛠️ Desenvolvedor projetista da <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
 
