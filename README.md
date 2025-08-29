@@ -1,19 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Bruno Gomes </h1>
 
    <p>🎓 - Graduando em Engenharia de Software<br></p>
-
    <p>📒 - Me aprofundando em backend e automação</p>
-
    <!-- <p>💼 CEO da <a href="" target="blank_"></a></p> -->
-   
    <p>👨‍💻 Desenvolvedor da <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Quyro Tech</a></p>
-
    <p>⚙ Membro da Liga de Inovação em Automação <a href="https://www.instagram.com/automacaoinovacao/" target="blank_">(LIA)</a></p>
    <!-- <p>⚙ Membro da Liga de Inovação em Automação <a href="" target="blank_">(LIA)</a> e da Liga Acadêmica de Engenharia de Software <a href="" target="blank_">(LAES)</a></p> -->
    <!-- <p>⚙ Membro da Liga Acadêmica de Engenharia de Software <a href="" target="blank_">(LAES)</a></p> -->
-
    <p>🛠️ Desenvolvedor projetista da <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
-
    <!-- <p>🔠 <a href="">A2 English Level</a></p> -->
 
 <br>
