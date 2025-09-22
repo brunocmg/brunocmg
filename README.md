@@ -10,11 +10,16 @@
 
 <br>
 
-<div>
-   <a href="https://github.com/brunocmg">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocmg&show_icons=true&theme=dracula&hide=stars,contribs"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&langs_count=16&theme=dracula&hide=jupyter%20notebook"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunocmg&show_icons=true&theme=dark&hide=stars,contribs" alt="Bruno Gomes' GitHub Stats" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Bruno Gomes' Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <h2>Languages ​​and Tools</h2>
 
