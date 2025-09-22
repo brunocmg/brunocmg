@@ -2,7 +2,6 @@
 
    <p>🎓 - Graduando em Engenharia de Software<br></p>
    <p>📒 - Me aprofundando em backend e automação</p>
-   <!-- <p>💼 CEO da <a href="" target="blank_"></a></p> -->
    <p>👨‍💻 Desenvolvedor da <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Quyro Tech</a></p>
 <!--    <p>⚙ Membro da Liga de Inovação em Automação <a href="https://www.instagram.com/automacaoinovacao/" target="blank_">(LIA)</a></p> -->
    <p>⚙ Membro da Liga Acadêmica de Engenharia de Software <a href="https://www.instagram.com/laes.ucsal/" target="blank_">(LAES)</a></p> 
@@ -21,7 +20,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,js,python,mysql,mongodb,git,github,html,css)](https://skillicons.dev)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,flask ou django,selenium,nodejs,npm,express,postman,mysql,postgre,mongodb,aws,azure,docker,kubernetes,git,github)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,tailwind,postgresql,mongodb,prisma,aws,docker,jest,py,java,git)](https://skillicons.dev) -->
+
+
 
 <h2>Contact Me</h2>
 
