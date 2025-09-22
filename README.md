@@ -13,7 +13,7 @@
 <div>
    <a href="https://github.com/brunocmg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocmg&show_icons=true&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&langs_count=16&theme=dracula&hide=jupyter%20notebook"/>
 </div>
 
 <h2>Languages ​​and Tools</h2>
@@ -30,8 +30,7 @@
    <br>
    <a href="mailto:brunocmg2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/brunocmgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> -->
 </div>
 
 ##
