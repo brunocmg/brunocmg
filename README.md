@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,js,python,mysql,mongodb,git,github,html,css)](https://skillicons.dev)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,tailwind,postgresql,mongodb,prisma,aws,docker,jest,py,java,git)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,tailwind,postgresql,mongodb,prisma,aws,docker,jest,postman,py,git,githubactions)](https://skillicons.dev) -->
 
 
 
