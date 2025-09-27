@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Bruno Gomes </h1>
 
    <p>🎓 - Software Engineering Undergraduate<br></p>
-   <p>📒 - Deepening my skills in backend development and automation</p>
+   <p>📒 - Deepening my skills in software development</p>
    <p>👨‍💻 - Developer at <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Quyro Tech</a></p>
 <!--    <p>⚙ Membro da Liga de Inovação em Automação <a href="https://www.instagram.com/automacaoinovacao/" target="blank_">(LIA)</a></p> -->
    <p>⚙ Member of the Academic League of Software Engineering <a href="https://www.instagram.com/laes.ucsal/" target="blank_">(LAES)</a></p> 
@@ -23,9 +23,7 @@
 
 <h2>Languages ​​and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,js,python,mysql,mongodb,git,github,html,css)](https://skillicons.dev)
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,tailwind,postgresql,mongodb,prisma,aws,docker,jest,postman,py,git,githubactions)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,tailwind,postgresql,mongodb,prisma,aws,docker,jest,postman,py,git,vercel)](https://skillicons.dev)
 
 
 
