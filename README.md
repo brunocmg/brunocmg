@@ -25,7 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,tailwind,postgresql,mongodb,prisma,aws,docker,jest,postman,py,git,vercel)](https://skillicons.dev)
 
-
 <h2>Contact Me</h2>
 
 <div >
