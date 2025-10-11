@@ -24,6 +24,7 @@
 <h2>Languages ​​and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,tailwind,postgresql,mongodb,prisma,aws,docker,jest,postman,py,git,vercel)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgresql,prisma,redis,rabbitmq,py,jest,git,docker,kubernetes,terraform,aws,mongodb)](https://skillicons.dev) -->
 
 <h2>Contact Me</h2>
 
