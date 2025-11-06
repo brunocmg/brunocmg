@@ -3,8 +3,6 @@
    <p>🎓 - Software Engineering Undergraduate<br></p>
    <p>📒 - Deepening my skills in software development</p>
    <p>👨‍💻 - Developer at <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Quyro Tech</a></p>
-<!--    <p>⚙ Membro da Liga de Inovação em Automação <a href="https://www.instagram.com/automacaoinovacao/" target="blank_">(LIA)</a></p> -->
-   <p>⚙ Member of the Academic League of Software Engineering <a href="https://www.instagram.com/laes.ucsal/" target="blank_">(LAES)</a></p> 
    <p>🛠️ Project Developer at <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
    <!-- <p>🔠 <a href="">A2 English Level</a></p> -->
 
