@@ -8,7 +8,7 @@
 
 <br>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunocmg&show_icons=true&theme=dark&hide=stars,contribs" alt="Bruno Gomes' GitHub Stats" />
@@ -17,7 +17,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmg&layout=compact&theme=dark&hide=jupyter%20notebook,html,css" alt="Bruno Gomes' Most Used Languages" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <h2>Languages ​​and Tools</h2>
 
