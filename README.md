@@ -2,8 +2,7 @@
 
    <p>🎓 - Software Engineering Undergraduate<br></p>
    <p>📒 - Deepening my skills in software development</p>
-   <p>👨‍💻 - Developer at <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Quyro Tech</a></p>
-   <p>🛠️ Project Developer at <a href="https://www.instagram.com/praxisjr/" target="_blank">Praxis Jr</a></p>
+   <p>👨‍💻 - Backend Developer @ <a href="https://www.linkedin.com/company/quyrotechnology/" target="blank_">Juriza</a> (Independent Project)</p>
    <!-- <p>🔠 <a href="">A2 English Level</a></p> -->
 
 <br>
